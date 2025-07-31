@@ -1,23 +1,22 @@
-<h1 align="center">🚀 ¡Hola! Soy Facundo Álvarez</h1>
+<h1 align="center">Facundo Álvarez</h1>
 <p align="center">
-  🧑‍💻 Desarrollador Web Frontend <br>
-  📍 Buenos Aires, Argentina · 17 años <br>
-  👨‍💼 Fundador de <b>GRIDEV</b>
+  Desarrollador Web Frontend · Buenos Aires, Argentina · 17 años <br>
+  Fundador de <strong>GRIDEV</strong>
 </p>
 
 ---
 
-## ✨ Sobre mí
+## Sobre mí
 
-Soy un joven desarrollador web apasionado por crear interfaces claras, modernas y funcionales. Me gusta trabajar con tecnologías del lado del cliente como **HTML**, **CSS** y **JavaScript**, y disfruto mejorar constantemente mis habilidades en diseño, usabilidad y experiencia de usuario.
+Soy un desarrollador web enfocado en construir interfaces limpias, modernas y funcionales. Trabajo principalmente con tecnologías del lado del cliente como **HTML**, **CSS** y **JavaScript**, buscando siempre mejorar la calidad visual y la experiencia de usuario en cada proyecto.
 
-Me encanta emprender y aprender por mi cuenta, por eso fundé **GRIDEV**, un espacio donde doy vida a mis ideas y proyectos web.
+Fundé **GRIDEV** como iniciativa personal para desarrollar proyectos web profesionales, mejorar mis habilidades y ofrecer soluciones digitales a medida.
 
 ---
 
-## 🧰 Herramientas que uso
+## Herramientas que utilizo
 
-Estas son algunas de las tecnologías y herramientas que manejo en mi día a día:
+Estas son algunas de las tecnologías y entornos con los que trabajo actualmente:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -27,41 +26,37 @@ Estas son algunas de las tecnologías y herramientas que manejo en mi día a dí
 
 ---
 
-## 🧪 Lo que estoy aprendiendo
+## Actualmente estoy aprendiendo
 
-- Técnicas avanzadas de **CSS** para lograr diseños más atractivos y modernos
-- Mejora en **layouts responsivos** para una visualización óptima en todos los dispositivos
-- Buenas prácticas en **organización visual** y estructura del código
-- Animaciones suaves y microinteracciones usando **transiciones y keyframes**
-
----
-
-
-## 📁 Proyectos destacados
-
-Aquí algunos de los proyectos web en los que trabajé recientemente:
-
-- 🌸 [**Zoe - Sitio Personal**](https://zoeeeee.netlify.app/)  
-  Sitio web estilo blog/presentación con estética tierna y juvenil. Incluye galería, animaciones suaves y diseño responsive.
-
-- 🕹️ [**Los Santos MTA - Comunidad de Roleplay**](https://los-santos-mta.netlify.app/)  
-  Página web profesional para un servidor de MTA:SA, con diseño oscuro, animaciones con GSAP y enfoque en la experiencia de comunidad.
-
-- ✅ [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
-  Aplicación web para organización de tareas personales. Cuenta con interfaz intuitiva, etiquetas de prioridad y fechas de vencimiento.
-
-- 🎮 [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
-  Landing promocional para comunidad competitiva de Valorant, con enfoque visual moderno, tipografía atractiva y diseño adaptado a móviles.
-
-
+- Técnicas avanzadas de **CSS** para mejorar diseño visual y estructura
+- Optimización de **layouts responsivos** para distintos dispositivos
+- Principios de **diseño visual** y jerarquía de contenido
+- Microinteracciones utilizando **transiciones y animaciones CSS**
 
 ---
 
-## 📫 ¿Querés contactarme?
+## Proyectos destacados
+
+Algunos de los desarrollos recientes en los que trabajé:
+
+- [**Zoe - Sitio Personal**](https://zoeeeee.netlify.app/)  
+  Página tipo presentación con estilo visual delicado y animaciones suaves. Incluye galería, sección sobre mí y diseño mobile-first.
+
+- [**Los Santos MTA - Comunidad Roleplay**](https://los-santos-mta.netlify.app/)  
+  Sitio informativo para una comunidad de MTA:SA, con enfoque profesional, animaciones GSAP, paleta oscura y scroll fluido.
+
+- [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
+  Aplicación simple y funcional para organizar tareas. Interfaz clara, filtros de prioridad y fechas límite.
+
+- [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
+  Landing promocional para comunidad gamer de Valorant. Estilo visual moderno, enfocado en identidad de marca y estética competitiva.
+
+---
+
+## Contacto
 
 - **Email:** facundo.alvz07@gmail.com  
 - **Discord:** @deltaccak
-- *(También podés dejarme una estrella ⭐ en alguno de mis repos)*
 
 ---
 
