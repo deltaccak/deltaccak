@@ -23,41 +23,50 @@ Estas son algunas de las tecnologías y herramientas que manejo en mi día a dí
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 🧪 Lo que estoy aprendiendo
 
-- Mejores prácticas en diseño web responsive
-- Accesibilidad y experiencia de usuario (UX/UI)
-- JavaScript moderno (ES6+)
-- Organización de código y proyectos en equipo
+- Técnicas avanzadas de **CSS** para lograr diseños más atractivos y modernos
+- Mejora en **layouts responsivos** para una visualización óptima en todos los dispositivos
+- Buenas prácticas en **organización visual** y estructura del código
+- Animaciones suaves y microinteracciones usando **transiciones y keyframes**
 
 ---
 
-## 📁 Algunos proyectos recientes
 
-- **Landing Pages** para pequeños emprendimientos
-- **Portfolios personales** con diseño único
-- **Sitios web informativos** responsivos y ligeros
+## 📁 Proyectos destacados
 
-*(¡Pronto subiré algunos repos públicos!)*
+Aquí algunos de los proyectos web en los que trabajé recientemente:
+
+- 🌸 [**Zoe - Sitio Personal**](https://zoeeeee.netlify.app/)  
+  Sitio web estilo blog/presentación con estética tierna y juvenil. Incluye galería, animaciones suaves y diseño responsive.
+
+- 🕹️ [**Los Santos MTA - Comunidad de Roleplay**](https://los-santos-mta.netlify.app/)  
+  Página web profesional para un servidor de MTA:SA, con diseño oscuro, animaciones con GSAP y enfoque en la experiencia de comunidad.
+
+- ✅ [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
+  Aplicación web para organización de tareas personales. Cuenta con interfaz intuitiva, etiquetas de prioridad y fechas de vencimiento.
+
+- 🎮 [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
+  Landing promocional para comunidad competitiva de Valorant, con enfoque visual moderno, tipografía atractiva y diseño adaptado a móviles.
+
+
 
 ---
 
 ## 📫 ¿Querés contactarme?
 
-- **Email:** contacto.gridev@gmail.com  
-- **Discord:** gridev.facundo  
+- **Email:** facundo.alvz07@gmail.com  
+- **Discord:** @deltaccak
 - *(También podés dejarme una estrella ⭐ en alguno de mis repos)*
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,netlify,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,netlify" alt="Skills" />
   <br><br>
   <i>"No hay edad para crear cosas grandes. Todo empieza con una idea."</i>
 </p>
