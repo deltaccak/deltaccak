@@ -33,6 +33,7 @@ Estas son algunas de las tecnologías y entornos con los que trabajo actualmente
 - Optimización de **layouts responsivos** para distintos dispositivos
 - Principios de **diseño visual** y jerarquía de contenido
 - Microinteracciones utilizando **transiciones y animaciones CSS**
+- Fundamentos y aplicaciones prácticas de **Python**
 
 ---
 
