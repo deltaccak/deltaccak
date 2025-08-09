@@ -62,8 +62,3 @@ Algunos de los desarrollos recientes en los que trabajé:
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,netlify" alt="Skills" />
-  <br><br>
-  <i>"No hay edad para crear cosas grandes. Todo empieza con una idea."</i>
-</p>
