@@ -66,4 +66,4 @@ Algunos de los desarrollos recientes en los que trabajé:
 - **Discord:** @deltaccak
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/737892667182022757?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/737892667182022757)
+[![Discord Presence](https://lanyard.cnrad.dev/api/737892667182022757?bg=031e4e&borderRadius=10px&theme=dark&hideTimestamp=true)](https://discord.com/users/737892667182022757)
