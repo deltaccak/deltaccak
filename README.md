@@ -65,4 +65,4 @@ Algunos de los desarrollos recientes en los que trabajé:
 - **Discord:** @deltaccak
 
 ---
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:737892667182022757)](https://discord.com/users/:id)
