@@ -56,7 +56,7 @@ Algunos de los desarrollos recientes en los que trabajé:
 - [**GRIDEV - Empresa web**]([https://novax-valorant.netlify.app/](https://gridev.vercel.app/))  
   Web oficial de mi empresa GRIDEV. Contiene sistema de envio de mails con formspree.
   
-- [**Nextside ES - Landing Page **]([https://novax-valorant.netlify.app/](https://nextside-es.vercel.app/))  
+- [**Nextside ES - Landing Page**]([https://novax-valorant.netlify.app/](https://nextside-es.vercel.app/))  
   Landing page para mi comunidad de programacion hispano hablante.
 ---
 
@@ -66,4 +66,4 @@ Algunos de los desarrollos recientes en los que trabajé:
 - **Discord:** @deltaccak
 
 ---
-(https://lanyard.cnrad.dev/api/737892667182022757?bg=031e4e&borderRadius=10px&idleMessage=Nada&theme=light)](https://discord.com/users/737892667182022757)
+[![Discord Presence](https://lanyard.cnrad.dev/api/737892667182022757)](https://discord.com/users/737892667182022757)
