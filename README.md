@@ -41,23 +41,25 @@ Estas son algunas de las tecnologías y entornos con los que trabajo actualmente
 
 Algunos de los desarrollos recientes en los que trabajé:
 
+- [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
+  Aplicación simple y funcional para organizar tareas. Interfaz clara, filtros de prioridad y fechas límite.
+  
+- [**Nextside ES - Landing Page**](https://nextside-es.vercel.app/)  
+  Landing page para mi comunidad de programacion hispano hablante. 4 secciones.
+
+- [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
+  Landing promocional para comunidad gamer de Valorant. Estilo visual moderno, enfocado en identidad de marca y estética competitiva.
+  
+- [**GRIDEV - Empresa web**](https://gridev.vercel.app/)  
+  Web oficial de mi empresa GRIDEV. Contiene sistema de envio de mails con formspree.
+
 - [**Zoe - Sitio Personal**](https://zoeeeee.netlify.app/)  
   Página tipo presentación con estilo visual delicado y animaciones suaves. Incluye galería, sección sobre mí y diseño mobile-first.
 
 - [**Los Santos MTA - Comunidad Roleplay**](https://los-santos-mta.netlify.app/)  
   Sitio informativo para una comunidad de MTA:SA, con enfoque profesional, animaciones GSAP, paleta oscura y scroll fluido.
-
-- [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
-  Aplicación simple y funcional para organizar tareas. Interfaz clara, filtros de prioridad y fechas límite.
-
-- [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
-  Landing promocional para comunidad gamer de Valorant. Estilo visual moderno, enfocado en identidad de marca y estética competitiva.
   
-- [**GRIDEV - Empresa web**]([https://novax-valorant.netlify.app/](https://gridev.vercel.app/))  
-  Web oficial de mi empresa GRIDEV. Contiene sistema de envio de mails con formspree.
-  
-- [**Nextside ES - Landing Page**]([https://novax-valorant.netlify.app/](https://nextside-es.vercel.app/))  
-  Landing page para mi comunidad de programacion hispano hablante.
+
 ---
 
 ## Contacto
