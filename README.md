@@ -23,6 +23,7 @@ Estas son algunas de las tecnologías y entornos con los que trabajo actualmente
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-007ACC?logo=code&logoColor=white&style=flat-square)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
@@ -42,23 +43,23 @@ Estas son algunas de las tecnologías y entornos con los que trabajo actualmente
 
 Algunos de los desarrollos recientes en los que trabajé:
 
-- [**TaskPro - Gestor de Tareas**](https://taskpro-app.netlify.app/)  
-  Aplicación simple y funcional para organizar tareas. Interfaz clara, filtros de prioridad y fechas límite.
+- [**Flux Apple**](https://flux-apple.vercel.app/)  
+  Sitio web para una tienda de venta y servicio tecnico de celulares.
   
-- [**Nextside ES - Landing Page**](https://nextside-es.vercel.app/)  
-  Landing page para mi comunidad de programacion hispano hablante. 4 secciones.
+- [**Nextside ES**](https://nextside-pg.vercel.app/)  
+  Sitio web de mi comunidad de programacion hispanohablante de Discord.
 
-- [**NovaX - Landing Page Valorant**](https://novax-valorant.netlify.app/)  
-  Landing promocional para comunidad gamer de Valorant. Estilo visual moderno, enfocado en identidad de marca y estética competitiva.
+- [**Zoe - Mascota**](https://zoeeeee.netlify.app/)  
+  Sitio web para una mascota, animaciones en el fondo y mucho mas.
   
-- [**GRIDEV - Empresa web**](https://gridev.vercel.app/)  
-  Web oficial de mi empresa GRIDEV. Contiene sistema de envio de mails con formspree.
+- [**TaskPro - Gestor de Tareas**](https://gridev.vercel.app/)  
+  Aplicación para organizar tareas personales con prioridades, fechas límite y categorías.
 
-- [**Zoe - Sitio Personal**](https://zoeeeee.netlify.app/)  
-  Página tipo presentación con estilo visual delicado y animaciones suaves. Incluye galería, sección sobre mí y diseño mobile-first.
+- [**GRIDEV**](https://gridev.vercel.app/)  
+  Sitio wb de mi empresa GRIDEV, con formulario de contacto, y mas.
 
-- [**Los Santos MTA - Comunidad Roleplay**](https://los-santos-mta.netlify.app/)  
-  Sitio informativo para una comunidad de MTA:SA, con enfoque profesional, animaciones GSAP, paleta oscura y scroll fluido.
+- [**Los Santos MTA**](https://los-santos-mta.vercel.app/)  
+  Web informativa para servidor de MTA Roleplay con noticias y eventos.
   
 
 ---
