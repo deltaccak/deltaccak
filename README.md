@@ -29,16 +29,6 @@ Estas son algunas de las tecnologías y entornos con los que trabajo actualmente
 
 ---
 
-## Actualmente estoy aprendiendo
-
-- Técnicas avanzadas de **CSS** para mejorar diseño visual y estructura
-- Optimización de **layouts responsivos** para distintos dispositivos
-- Principios de **diseño visual** y jerarquía de contenido
-- Microinteracciones utilizando **transiciones y animaciones CSS**
-- Fundamentos y aplicaciones prácticas de **Python**
-
----
-
 ## Proyectos destacados
 
 Algunos de los desarrollos recientes en los que trabajé:
