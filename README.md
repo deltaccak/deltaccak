@@ -2,7 +2,6 @@
 <p align="center">
   Desarrollador Web Frontend · Buenos Aires, Argentina · 17 años <br>
   Fundador de <strong>GRIDEV</strong> <br>
-  Fundador de <strong>Nextside</strong>
 </p>
 
 ---
