@@ -1,7 +1,8 @@
 <h1 align="center">Facundo Álvarez</h1>
 <p align="center">
-  Desarrollador Web Frontend · Buenos Aires, Argentina · 17 años <br>
+  Desarrollador Web Frontend · Buenos Aires, Argentina · 18 años <br>
   Fundador de <strong>GRIDEV</strong> <br>
+  <strong>KICK:</strong> https://kick.com/deltaccak/
 </p>
 
 ---
